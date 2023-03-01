@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { BankingService } from '../services/banking.service';
-
+// algo
 @Component({
   selector: 'app-bank',
   templateUrl: './bank.component.html',
